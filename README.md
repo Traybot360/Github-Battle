@@ -8,7 +8,7 @@ Battle people's git account with this webste. To access the website just click [
 This website has 3 main pages.
 
 - Home
- - All it does is brings you to the battle page.
+  - All it does is brings you to the battle page.
 - Battle 
   - Enter 2 _VALID_ github usernames and the program will find them than battle them.
 - Popular
